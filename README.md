@@ -1,4 +1,4 @@
-# PrinterTonerDB
+# PrinterInkTonerDB
 Printer to Toner Public Database
 
 Version 1
